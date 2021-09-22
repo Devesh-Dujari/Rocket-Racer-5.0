@@ -17,7 +17,7 @@ var line1, line2, line3,line4;
 var home, homeImg;
 var win, winImg;
 
-var gameState = "4";
+var gameState = "0";
 var distance = 0;
 var coinCount = 0;
 var deaths = 0;
